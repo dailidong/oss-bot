@@ -31,7 +31,7 @@
     "finis": "^0.4.3",
     "moment": "^2.24.0",
     "node-cache": "^5.1.0",
-    "probot": "^9.8.1",
+    "probot": "^9.9.5",
     "smee-client": "^1.1.0",
     "wechaty": "^0.31.4"
   },
